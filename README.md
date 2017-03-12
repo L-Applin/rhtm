@@ -17,11 +17,11 @@ Music interaction with level design will help player solve a mix of platforming 
   
   B.  	These changes in music will be reflected in the level itself. Ex. :
   
-    i.	Door opens, spike removed, platform appears, etc;
+      i.	Door opens, spike removed, platform appears, etc;
     
-    ii.	Colors;
+      ii.	Colors;
     
-    iii.	Enemies;
+      iii.	Enemies;
     
     iv.	General change (gravity (?), level rotation (?), teleportation (?), etc).
     
