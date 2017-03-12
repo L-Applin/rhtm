@@ -1,34 +1,28 @@
-rhtm
-Platformer / Puzzler / Musical game
+#rhtm
+* Platformer / Puzzler / Musical game
 
 
-Music platformer
-Musical 2D puzzle platformer
-Title ideas : « Rhythm »,
+Music platformer  
+Musical 2D puzzle platformer  
+Title ideas : « Rhythm »,  
 
-Music interaction with level design will help player solve a mix of platforming and puzzling
+Music interaction with level design will help player solve a mix of platforming and puzzling  
 
-1) General ideas
+#1) General ideas
 
-1.Interaction between music, level design and player actions:
-
- A. Player actions will influence the music of the game.  
-
- B. These changes in music will be reflected in the level itself. Ex. :  
-
+##1.Interaction between music, level design and player actions:  
+###A. Player actions will influence the music of the game.  
+###B. These changes in music will be reflected in the level itself. Ex. :    
   i. Door opens, spike removed, platform appears, etc;  
   ii. Colors,  
   iii. Enemies;   
 
 iv.	General change (gravity (?), level rotation (?), teleportation (?), etc).  
-
 C.	Visual level elements (moving platform or obstacle, doors, etc) can be heard in the music.
-
 2.	Listening to the music is required to solve puzzles/reach the end of the level :
 A.	Matching rhythm.
 B.	Matching pitch (melody, harmony, arpegio).
 C.	Musical hints located through levels ?
-
 3.	Musical style :
   A.	Synthwave / 80’s synthesizer 
   B.	Vangelis / Daft punk / Depeche mode / Stranger things
@@ -37,7 +31,6 @@ C.	Musical hints located through levels ?
     i.	Empty, slow at the begining of levels.
     ii.	High tempo / arpegiated at the end, depending of the level.
   E.	Each level’s music is similar, but has it’s own characteristics.
-
 4.	Fast paced :
   A.	High player speed.
   B.	Fast and tight control.
