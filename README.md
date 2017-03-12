@@ -8,18 +8,17 @@ Title ideas : « Rhythm »,
 
 Music interaction with level design will help player solve a mix of platforming and puzzling
 
-1.	General ideas
-1.	Interaction between music, level design and player actions:
+1) General ideas
 
-A.	Player actions will influence the music of the game.  
+1.Interaction between music, level design and player actions:
 
-B.  	These changes in music will be reflected in the level itself. Ex. :  
+ A. Player actions will influence the music of the game.  
 
-i.	Door opens, spike removed, platform appears, etc;  
+ B. These changes in music will be reflected in the level itself. Ex. :  
 
-ii.	Colors,  
-
-iii. Enemies;   
+  i. Door opens, spike removed, platform appears, etc;  
+  ii. Colors,  
+  iii. Enemies;   
 
 iv.	General change (gravity (?), level rotation (?), teleportation (?), etc).  
 
