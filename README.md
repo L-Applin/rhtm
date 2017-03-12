@@ -14,10 +14,15 @@ Music interaction with level design will help player solve a mix of platforming 
 1.	Interaction between music, level design and player actions:
   A.	Player actions will influence the music of the game.
   B.  	These changes in music will be reflected in the level itself. Ex. :
+  
     i.	Door opens, spike removed, platform appears, etc,
+    
     ii.	Colors,
+    
     iii.	Enemies,
+    
     iv.	General change (gravity (?), level rotation (?), teleportation (?), etc).
+    
   C.	Visual level elements (moving platform or obstacle, doors, etc) can be heard in the music.
 
 2.	Listening to the music is required to solve puzzles/reach the end of the level :
