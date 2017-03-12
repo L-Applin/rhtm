@@ -13,10 +13,11 @@ Music interaction with level design will help player solve a mix of platforming 
 ##1.Interaction between music, level design and player actions:  
 ###A. Player actions will influence the music of the game.  
 ###B. These changes in music will be reflected in the level itself. Ex. :    
-i. Door opens, spike removed, platform appears, etc;  
-ii. Colors,  
-iii. Enemies;   
-iv.	General change (gravity (?), level rotation (?), teleportation (?), etc).  
+* Door opens, spike removed, platform appears, etc;  
+* Colors,  
+* Enemies;   
+* General change (gravity (?), level rotation (?), teleportation (?), etc).
+
 ###C.	Visual level elements (moving platform or obstacle, doors, etc) can be heard in the music.
 
 
@@ -27,10 +28,10 @@ iv.	General change (gravity (?), level rotation (?), teleportation (?), etc).
 
 
 ##3.	Musical style :
-A.	Synthwave / 80’s synthesizer 
-B.	Vangelis / Daft punk / Depeche mode / Stranger things
-C.	SFX as musical elements.
-D.	Contrasting :
+###A.	Synthwave / 80’s synthesizer 
+###B.	Vangelis / Daft punk / Depeche mode / Stranger things
+###C.	SFX as musical elements.
+###D.	Contrasting :
 i.	Empty, slow at the begining of levels.
 ii.	High tempo / arpegiated at the end, depending of the level.
 E.	Each level’s music is similar, but has it’s own characteristics.
